@@ -81,7 +81,7 @@
         android:id="@+id/inMinTile"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="In minutes till date"
+        android:text="In days till date"
         android:textColor="@color/buttontextColor"
         android:textSize="18dp"
         tools:ignore="RtlCompat" />
